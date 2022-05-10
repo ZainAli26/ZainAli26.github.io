@@ -6,12 +6,4 @@
         <td>Foo</td>
     </tr>
 </table>
-<button onclick="myFunction()">Click me</button>
-
-<script>
-function myFunction() {
-  document.getElementById("demo").style.color = "red";
-}
-</script>
-
 This is another regular paragraph.
