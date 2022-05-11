@@ -31,6 +31,12 @@ Zain ALi Zubair Zain ALi ZubairZain ALi ZubairZain ALi ZubairZain ALi ZubairZain
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="/assets/css/style.css?v=11c072c03ffc7538ff98c979b89aed58561dec60">
 </footer>
 </body>
 </html>
