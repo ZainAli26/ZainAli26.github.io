@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# OS / editor
+.DS_Store
+
+# raw screen recordings - convert into assets/ before committing
+*.mov
